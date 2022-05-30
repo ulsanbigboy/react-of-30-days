@@ -20,13 +20,13 @@ Written by <a href="https://fullstack.io">Fullstack.io</a> and <a href="#contrib
 </p>
 <hr />
 
-# 🚀 Introduction
+# 🚀 소개
 
 Over the next 30 days, we'll walk through everything you need to know to work with React. From the very beginning through testing and deployment of our first app.
 
 This repository contains the entire source and content for the article series of [30 Days of React](https://www.fullstackreact.com/30-days-of-react) hosted by the [Fullstack React](https://www.fullstackreact.com/) team.
 
-## 👀 What's inside?
+## 👀 내용
 
 <!-- prettier-ignore -->
 | <a href='./day-01'><img src='./day-01/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-01'>What is React?</a><h4> | <a href='./day-02'><img src='./day-02/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-02'>What is JSX?</a><h4> | <a href='./day-03'><img src='./day-03/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-03'>Our First Components</a><h4> | <a href='./day-04'><img src='./day-04/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-04'>Complex Components</a><h4> | <a href='./day-05'><img src='./day-05/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-05'>Data-Driven</a><h4> |
@@ -37,7 +37,7 @@ This repository contains the entire source and content for the article series of
 | <a href='./day-21'><img src='./day-21/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-21'>Redux Middleware</a><h4> | <a href='./day-22'><img src='./day-22/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-22'>Introduction to Testing</a><h4> | <a href='./day-23'><img src='./day-23/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-23'>Implementing Tests</a><h4> | <a href='./day-24'><img src='./day-24/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-24'>Testing the App</a><h4> | <a href='./day-25'><img src='./day-25/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-25'>Better Testing with Enzyme</a><h4> |
 | <a href='./day-26'><img src='./day-26/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-26'>Integration Testing</a><h4> | <a href='./day-27'><img src='./day-27/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-27'>Deployment Introduction</a><h4> | <a href='./day-28'><img src='./day-28/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-28'>Deployment</a><h4> | <a href='./day-29'><img src='./day-29/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-29'>Continuous Integration</a><h4> | <a href='./day-30'><img src='./day-30/cover.jpg' width='140px;' /></a><h4 align='center'><a href='./day-30'>Wrap-up and More Resources</a><h4> |
 
-## 👩‍🏫 How to use this repository
+## 👩‍🏫 사용법
 
 Each day contains a full React application, following the same procedure used to create the article series. Most days can be run using the same basic steps (and for the days that require a bit more work, check out the tutorial series on the blog).
 
