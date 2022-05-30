@@ -55,7 +55,7 @@ yarn start
 
 Since all of the days are built using the fantastic [create-react-app](https://github.com/facebookincubator/create-react-app) tool, all of the commands are available from that project in every day.
 
-## Contributors
+## 기여자
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -65,14 +65,5 @@ Since all of the days are built using the fantastic [create-react-app](https://g
 
 ---
 
-# Fullstack React Book
-
-<a href="https://fullstackreact.com">
-<img align="right" src="images/readme/fullstack-react-hero-book.png" alt="Fullstack React Book" width="155" height="250" />
-</a>
-
-This repo was written and is maintained by the [Fullstack React](https://fullstackreact.com) team. In the book we cover many more projects like this. We walk through each line of code, explain why it's there and how it works.
-
-_30 Days of React_ covers only the early basics of React. If you're looking to learn how to build real-world React apps, including libraries from the React ecosystem, there's no faster way than by spending a few hours with the Fullstack React book.
 
 <div style="clear:both"></div>
