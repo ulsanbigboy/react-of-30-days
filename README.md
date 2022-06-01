@@ -1,6 +1,9 @@
 ![](https://www.fullstackreact.com/assets/images/30days/30-days-of-react-header.jpg)
 
 <hr />
+<p align="center">
+  <img src="./images\readme/30-days-of-react-book-cover-2-as-book-220.png"/>
+</p>
 <h1 align="center">
   30 Days of React
 </h1>
