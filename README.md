@@ -8,7 +8,7 @@
 <img src="./images/readme/30-days-of-react-book-cover-2-as-book-220.png"/>
 </p>
 <h2 align="center">
-  ✨ 리액트배우기 - <b>30개 샘플로 배우기</b> ✨
+  ✨ 30개 샘플로 리액트배우기 ✨
 </h2>
 <p align="center">
 Written by <a href="https://fullstack.io">Fullstack.io</a> and <a href="#contributors">friends</a>
