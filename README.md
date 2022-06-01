@@ -2,7 +2,7 @@
 
 <hr />
 <p align="center">
-  <img src="./images\readme/30-days-of-react-book-cover-2-as-book-220.png"/>
+  <img src="./images\readme/30-days-of-react-header.jpg"/>
 </p>
 <h1 align="center">
   30 Days of React
