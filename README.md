@@ -23,7 +23,7 @@ Written by <a href="https://fullstack.io">Fullstack.io</a> and <a href="#contrib
 
 # 🚀 소개
 
-Over the next 30 days, we'll walk through everything you need to know to work with React. From the very beginning through testing and deployment of our first app.
+앞으로 30일 동안 React로 작업하기 위해 알아야 할 모든 것을 살펴보겠습니다. 처음부터 앱의 테스트 및 배포까지.
 
 This repository contains the entire source and content for the article series of [30 Days of React](https://www.fullstackreact.com/30-days-of-react) hosted by the [Fullstack React](https://www.fullstackreact.com/) team.
 
