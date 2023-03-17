@@ -44,9 +44,9 @@ This repository contains the entire source and content for the article series of
 
 Each day contains a full React application, following the same procedure used to create the article series. Most days can be run using the same basic steps (and for the days that require a bit more work, check out the tutorial series on the blog).
 
-The steps run any _30 Days of React_ project are:
+하단 명령은 day-12 부터 사용할수 있습니다. :
 
-We can run these steps using the following commands:
+하단 명령을 이용하여 실행 할수 있습니다. :
 
 ```bash
 # install the dependencies
@@ -62,7 +62,7 @@ Since all of the days are built using the fantastic [create-react-app](https://g
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| <a href='http://willcodeforfoo.com'><img src='https://avatars1.githubusercontent.com/u/529?v=4' width='140px;'/><h4 align='center'><a href='http://willcodeforfoo.com'>Ari</a></h4> | <a href='https://newline.co'><img src='https://avatars2.githubusercontent.com/u/4318?v=4' width='140px;'/><h4 align='center'><a href='https://newline.co'>Nate Murray</a></h4> | <a href='https://codepen.io/PeterHYChan/'><img src='https://avatars3.githubusercontent.com/u/32804449?v=4' width='140px;'/><h4 align='center'><a href='https://codepen.io/PeterHYChan/'>Peter Ho Yeung Chan</a></h4> | <a href='https://github.com/harms280'><img src='https://avatars2.githubusercontent.com/u/10542951?v=4' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>Aaron</a></h4> |
+| <a href='http://willcodeforfoo.com'><img src='https://avatars1.githubusercontent.com/u/529?v=4' width='140px;'/><h4 align='center'><a href='http://willcodeforfoo.com'>코난</a></h4> | <a href='https://newline.co'><img src='https://avatars2.githubusercontent.com/u/4318?v=4' width='140px;'/><h4 align='center'><a href='https://newline.co'>라나</a></h4> | <a href='https://codepen.io/PeterHYChan/'><img src='https://avatars3.githubusercontent.com/u/32804449?v=4' width='140px;'/><h4 align='center'><a href='https://codepen.io/PeterHYChan/'>포비</a></h4> | <a href='https://github.com/harms280'><img src='https://avatars2.githubusercontent.com/u/10542951?v=4' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>다이스</a></h4> | <a href='https://github.com/harms280'><img src='https://avatars2.githubusercontent.com/u/10542951?v=4' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>몬스키</a></h4> |
 | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
