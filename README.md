@@ -60,7 +60,7 @@ Since all of the days are built using the fantastic [create-react-app](https://g
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| <a href='http://willcodeforfoo.com'><img src='./images/readme/C11.jpg' width='140px;'/><h4 align='center'><a href='http://willcodeforfoo.com'>코난</a></h4> | <a href='https://newline.co'><img src='./images/readme/C12.jpg' width='140px;'/><h4 align='center'><a href='https://newline.co'>라나</a></h4> | <a href='https://codepen.io/PeterHYChan/'><img src='./images/readme/C13.jpg' width='140px;'/><h4 align='center'><a href='https://codepen.io/PeterHYChan/'>포비</a></h4> | <a href='https://github.com/harms280'><img src='./images/readme/C21.jpg' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>다이스몬스키</a></h4> |
+| <a href='http://willcodeforfoo.com'><img src='./images/readme/C11.jpg' width='140px;'/><h4 align='center'><a href='http://willcodeforfoo.com'>코난</a></h4> | <a href='https://newline.co'><img src='./images/readme/C12.jpg' width='140px;'/><h4 align='center'><a href='https://newline.co'>라나</a></h4> | <a href='https://codepen.io/PeterHYChan/'><img src='./images/readme/C13.jpg' width='140px;'/><h4 align='center'><a href='https://codepen.io/PeterHYChan/'>포비</a></h4> | <a href='https://github.com/harms280'><img src='./images/readme/C21.jpg' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>다이스</a></h4> |
 | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
