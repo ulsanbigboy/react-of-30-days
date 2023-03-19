@@ -5,7 +5,7 @@
 </p>
 <hr />
 <h1 align="center">
-  30 Days of React
+  30일 완성 리액트
 </h1>
 <p align="center">
 <img src="./images/readme/30-days-of-react-book-cover-2-as-book-220.png"/>
@@ -14,7 +14,7 @@
   ✨ 30개 샘플로 리액트배우기 ✨
 </h2>
 <p align="center">
-Written by <a href="https://fullstack.io">Fullstack.io</a> and <a href="#contributors">friends</a>
+Written by <a href="https://fullstack.io">UBB</a> and <a href="#contributors">friends</a>
 </p>
 <p align="center">
 <a href="https://app.monstercampaigns.com/c/opsh28ygz42xhvtlq4vd/">
@@ -25,9 +25,7 @@ Written by <a href="https://fullstack.io">Fullstack.io</a> and <a href="#contrib
 
 # 🚀 소개
 
-앞으로 30일 동안 React로 작업하기 위해 알아야 할 모든 것을 살펴보겠습니다. 처음부터 앱의 테스트 및 배포까지.
-
-This repository contains the entire source and content for the article series of [30 Days of React](https://www.fullstackreact.com/30-days-of-react) hosted by the [Fullstack React](https://www.fullstackreact.com/) team.
+앞으로 30일 동안 React로 작업하기 위해 알아야 할 모든 것을 살펴보겠습니다. 처음부터 [앱의 테스트 및 배포](http://http://monoalliance.iptime.org/)까지.
 
 ## 👀 내용
 
@@ -62,7 +60,7 @@ Since all of the days are built using the fantastic [create-react-app](https://g
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| <a href='http://willcodeforfoo.com'><img src='http://monoalliance.iptime.org/images/jimsy-future-boy-conan-82.9_thumb.jpg' width='140px;'/><h4 align='center'><a href='http://willcodeforfoo.com'>코난</a></h4> | <a href='https://newline.co'><img src='https://avatars2.githubusercontent.com/u/4318?v=4' width='140px;'/><h4 align='center'><a href='https://newline.co'>라나</a></h4> | <a href='https://codepen.io/PeterHYChan/'><img src='https://avatars3.githubusercontent.com/u/32804449?v=4' width='140px;'/><h4 align='center'><a href='https://codepen.io/PeterHYChan/'>포비</a></h4> | <a href='https://github.com/harms280'><img src='https://avatars2.githubusercontent.com/u/10542951?v=4' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>다이스몬스키</a></h4> |
+| <a href='http://willcodeforfoo.com'><img src='./images/readme/C11.jpg' width='140px;'/><h4 align='center'><a href='http://willcodeforfoo.com'>코난</a></h4> | <a href='https://newline.co'><img src='./images/readme/C12.jpg' width='140px;'/><h4 align='center'><a href='https://newline.co'>라나</a></h4> | <a href='https://codepen.io/PeterHYChan/'><img src='./images/readme/C13.jpg' width='140px;'/><h4 align='center'><a href='https://codepen.io/PeterHYChan/'>포비</a></h4> | <a href='https://github.com/harms280'><img src='./images/readme/C21.jpg' width='140px;'/><h4 align='center'><a href='https://github.com/harms280'>다이스몬스키</a></h4> |
 | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
