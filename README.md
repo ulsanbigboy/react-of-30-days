@@ -40,11 +40,12 @@ Written by <a href="https://fullstack.io">UBB</a> and <a href="#contributors">fr
 
 ## 👩‍🏫 사용법
 
-Each day contains a full React application, following the same procedure used to create the article series. Most days can be run using the same basic steps (and for the days that require a bit more work, check out the tutorial series on the blog).
+독립 실행형 Vue 애플리케이션을 실행하는 단계 (01~12일차):
 
-하단 명령은 day-12 부터 사용할수 있습니다. :
-
-하단 명령을 이용하여 실행 할수 있습니다. :
+```bash
+Open the `index.html` file in your favourite browser.
+```
+Webpack 기반 React 애플리케이션을 실행하는 단계 (13~30일차):
 
 ```bash
 # install the dependencies
@@ -56,7 +57,7 @@ yarn start
 
 Since all of the days are built using the fantastic [create-react-app](https://github.com/facebookincubator/create-react-app) tool, all of the commands are available from that project in every day.
 
-## 기여자
+## 도움을주신분
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
