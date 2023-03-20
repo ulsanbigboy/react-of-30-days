@@ -5,7 +5,7 @@
 </p>
 <hr />
 <h1 align="center">
-  30일 완성 리액트
+  ✨ ■ 30일 완성 리액트 ■ ✨
 </h1>
 <p align="center">
 <img src="./images/readme/30-days-of-react-book-cover-2-as-book-220.png"/>
@@ -54,8 +54,6 @@ yarn install
 # start the project
 yarn start
 ```
-
-Since all of the days are built using the fantastic [create-react-app](https://github.com/facebookincubator/create-react-app) tool, all of the commands are available from that project in every day.
 
 ## 도움을주신분
 
