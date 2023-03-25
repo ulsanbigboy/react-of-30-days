@@ -17,9 +17,9 @@
 Written by <a href="https://fullstack.io">UBB</a> and <a href="#contributors">friends</a>
 </p>
 <p align="center">
-<a href="http://monoalliance.iptime.org/file/30-days-of-react-master.pdf">
-<img src="./images/readme/download-the-pdf-button.png" width="484" height="83" />
-</a>
+  <a href="http://monoalliance.iptime.org/file/30-days-of-react-master.pdf">
+    <img src="./images/readme/download-the-pdf-button.png" width="484" height="83" />
+  </a>
 </p>
 <hr />
 
