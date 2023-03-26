@@ -1,4 +1,4 @@
-<h3>■ 22일차 - What is React?</h3>
+<h3>■ 22일차 - Introduction to Testing</h3>
 
 브라우저에서 `public/index.html` 파일로 결과 확인.
 

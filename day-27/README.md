@@ -1,4 +1,4 @@
-<h3>■ 27일차 - What is React?</h3>
+<h3>■ 27일차 - Deployment Introduction</h3>
 
 브라우저에서 `public/index.html` 파일로 결과 확인.
 

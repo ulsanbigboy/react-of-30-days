@@ -1,4 +1,4 @@
-<h3>■ 25일차 - Interactivity</h3>
+<h3>■ 25일차 - Better Testing with Enzyme</h3>
 
 브라우저에서 `public/index.html` 파일로 결과 확인.
 

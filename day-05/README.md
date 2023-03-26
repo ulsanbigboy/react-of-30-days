@@ -1,4 +1,4 @@
-<h3>■ 05일차 - State</h3>
+<h3>■ 05일차 - Data-Driven</h3>
 
 브라우저에서 `public/index.html` 파일로 결과 확인.
 

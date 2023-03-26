@@ -1,4 +1,4 @@
-<h3>■ 30일차 - Interactivity</h3>
+<h3>■ 30일차 - Wrap-up and More Resources</h3>
 
 브라우저에서 `public/index.html` 파일로 결과 확인.
 
